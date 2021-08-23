@@ -1,0 +1,69 @@
+:root {
+  --padding: 30px;
+  --spaces: 5px;
+  --html-color: rgb(155, 231, 155);
+  --main-color: #a2cfe9;
+  --body-color: #e9a2a2;
+}
+
+* {
+  position: relative;
+}
+
+html {
+  border: 1px dashed var(--html-color);
+  padding: var(--padding);
+}
+
+html:before {
+  content: 'html';
+  position: absolute;
+  top: var(--spaces);
+  left: var(--spaces);
+  color: var(--html-color);
+}
+
+body {
+  border: 1px solid var(--body-color);
+  padding: var(--padding);
+}
+
+body:before {
+  content: 'body';
+  position: absolute;
+  top: var(--spaces);
+  left: var(--spaces);
+  color: var(--body-color)
+}
+
+
+header {
+  border: 1px solid #e1a2e9;
+  padding: var(--padding);
+}
+
+
+header:before {
+  content: 'header';
+  position: absolute;
+  top: var(--spaces);
+  left: var(--spaces);
+}
+
+main {
+  border: 1px solid var(--main-color);
+  padding: var(--padding);
+}
+
+
+main:before {
+  content: 'main';
+  position: absolute;
+  top: var(--spaces);
+  left: var(--spaces);
+}
+
+footer {
+  border: 1px solid #e9dea2;
+  padding: var(--padding);
+}
