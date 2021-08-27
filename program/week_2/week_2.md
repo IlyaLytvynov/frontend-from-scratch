@@ -1,6 +1,32 @@
-# Урок 6
+# Неделя 2
+
+## Формы
+- form
+- input
+- id/value
+- label + id
+- checkbox
+- textarea
+- radio
+- selecte/multiselect
+- upload/загрузка файлов на сервер
+- input hidden
+- placeholder
+- button type
+- input type image
+- обязательные поля
+- input date
+- fieldset
+- disabled
+- autocomplete
+- autofocus
+
+Пример верстки формы согласно шаблону https://www.figma.com/file/XIGo9Oo8dSS7VSZRaXXBMt/SignUpForm
+
+**Проверка** верстка формы https://www.figma.com/file/yLTQtQBSS4398GLZnJre1o/sign-up-form
+
 ## CSS бокс модель|сетки|Flex
-верстка страницы меню доставки еды (template todo)
+
 - Бокс модель https://developer.mozilla.org/ru/docs/Web/CSS/CSS_Box_Model
 - Поток страницы и как им управлять
 - Display: block|inline-block|inline
@@ -17,10 +43,8 @@
 - flex-grow|flex-shrink|flex-basis
 
 - верстка карточки товара на flex https://www.figma.com/file/8cIUOY8RQuaaYkjaxpfySI/Product
-- Пример верстки меню на flex
+- пример верстки меню на flex
 
-Задание: верстка простого шаблона страницы
+**Проверка:** верстка простого шаблона страницы
 https://www.figma.com/file/Hp1k4Lw1cKtYvp55KK6HYU/MIcroLanding?node-id=0%3A1
 (TODO: добавить этапность)
-
-
