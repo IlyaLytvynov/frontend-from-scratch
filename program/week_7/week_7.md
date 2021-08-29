@@ -1,6 +1,7 @@
 # Неделя 7
 
 ### Динамическое создание элементов 
+
 - document.createElement()
 - targetElement.innerHTML  
 - targetElement.insertAdjacentHTML(position, text)
@@ -8,6 +9,9 @@
 - Создание сайдбара динамически
 - setTimeout/interval
 - анимирование при помощи timeOut/interval
+- localStorage
+- создание списка задачь при помощи localstorage
+
 Практика работа с ДОМ(подготовить задания и тесты)
 
 - Функциональная часть JS
