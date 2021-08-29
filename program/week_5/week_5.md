@@ -4,7 +4,7 @@
 
 - Что такое язык JS и зачем его изучать?
 - Синтаксис
-- Тег script
+- Тег script|script type="module"
 - alert|prtomp|confirm
 - переменные
 - данные|типы данных (string|number|null|undefined|boolean|object|symbol)
