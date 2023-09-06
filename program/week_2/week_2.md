@@ -1,49 +1,50 @@
-# Неделя 2
-## Формы
-- form
-- input
-- id/value
-- label + id
-- checkbox
-- textarea
-- radio
-- selecte/multiselect
-- upload/загрузка файлов на сервер
-- input hidden
-- placeholder
-- button type
-- input type image
-- обязательные поля
-- input date
-- fieldset
-- disabled
-- autocomplete
-- autofocus
+# Неділя 2
 
-Пример верстки формы согласно шаблону https://www.figma.com/file/XIGo9Oo8dSS7VSZRaXXBMt/SignUpForm
+## Форми
 
-**Проверка** верстка формы https://www.figma.com/file/yLTQtQBSS4398GLZnJre1o/sign-up-form
+- Форма (form)
+- Поле вводу (input)
+- Ідентифікатор та значення (id/value)
+- Label + ідентифікатор (label + id)
+- Прапорець (checkbox)
+- Текстова область (textarea)
+- Радіокнопка (radio)
+- Вибір/багаторазовий вибір (select/multiselect)
+- Завантаження файлів на сервер (upload/загрузка файлов на сервер)
+- Приховане поле вводу (input hidden)
+- Placeholder
+- Тип кнопки (button type)
+- Зображення в якості кнопки (input type image)
+- Обов'язкові поля
+- Поле вводу для дати (input date)
+- Fieldset
+- Вимкнено (disabled)
+- Автозаповнення (autocomplete)
+- Автофокус (autofocus)
 
-## CSS бокс модель|сетки|Flex
+Приклад верстки форми відповідно до шаблону: [Посилання на Figma](https://www.figma.com/file/XIGo9Oo8dSS7VSZRaXXBMt/SignUpForm)
 
-- Бокс модель https://developer.mozilla.org/ru/docs/Web/CSS/CSS_Box_Model
-- Поток страницы и как им управлять
+**Перевірка:** Верстка форми [Посилання на Figma](https://www.figma.com/file/yLTQtQBSS4398GLZnJre1o/sign-up-form)
+
+## CSS Бокс-модель | Сітки | Flex
+
+- Бокс-модель: [Посилання на документацію MDN](https://developer.mozilla.org/ru/docs/Web/CSS/CSS_Box_Model)
+- Потік сторінки та управління ним
 - Display: block|inline-block|inline
-- Padding внутренний отступ
-- Margin внешний отступ
-- Схлопывание вертикальных отступов https://html5book.ru/css-blochnaya-model/#margins-collapse
+- Внутрішні відступи (Padding)
+- Зовнішні відступи (Margin)
+- Злиття вертикальних відступів (Схлопування вертикальних відступів)
 
-- display:flex
-- justify-content
-- align-items
-- align-content
-- align-self
-- flex-wrap
-- flex-grow|flex-shrink|flex-basis
+- Display: flex
+- Justify-content
+- Align-items
+- Align-content
+- Align-self
+- Flex-wrap
+- Flex-grow|flex-shrink|flex-basis
 
-- верстка карточки товара на flex https://www.figma.com/file/8cIUOY8RQuaaYkjaxpfySI/Product
-- пример верстки меню на flex
+- Верстка карточки товару за допомогою Flex: [Посилання на Figma](https://www.figma.com/file/8cIUOY8RQuaaYkjaxpfySI/Product)
+- Приклад верстки меню за допомогою Flex
 
-**Проверка:** верстка простого шаблона страницы
-https://www.figma.com/file/Hp1k4Lw1cKtYvp55KK6HYU/MIcroLanding?node-id=0%3A1
-(TODO: добавить этапность)
+**Перевірка:** Верстка простого шаблону сторінки [Посилання на Figma](https://www.figma.com/file/Hp1k4Lw1cKtYvp55KK6HYU/MIcroLanding?node-id=0%3A1)
+(TODO: Додати етапність)
