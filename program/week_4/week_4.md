@@ -3,7 +3,7 @@
 ## Основи адаптивної верстки
 
 - Що таке адаптивна верстка?
-- Запити за допомогою медіа-запитів (Media queries) [Документація MDN](https://developer.mozilla.org/ru/docs/Web/CSS/Media_Queries/Using_media_queries)
+- Верстка за допомогою медіа-запитів (Media queries) [Документація MDN](https://developer.mozilla.org/ru/docs/Web/CSS/Media_Queries/Using_media_queries)
 - Приклад верстки адаптивного меню
 
 **Перевірка:** Верстка сторінки з адаптацією під різні пристрої
