@@ -32,3 +32,5 @@
 ## 10. Wrapping Flex Items
 **Task:** Reduce the size of the flex container and allow the child divs to wrap onto the next line when there's not enough space. Ensure each div has a distinct background color to observe the wrap behavior clearly.
 
+## 11. Prepare landing page https://www.figma.com/file/Hp1k4Lw1cKtYvp55KK6HYU/MIcroLanding?node-id=0%3A1
+
