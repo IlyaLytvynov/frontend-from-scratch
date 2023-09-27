@@ -30,3 +30,5 @@
 ## 10. Adjacent Sibling Selector
 **Task:** Style a paragraph that immediately follows an `<h2>` to have italic text.
 
+## 11 Create simple page as in template figma https://www.figma.com/file/aDreuRcBACBfkqrJLV7AYE/ghosted-coming-soon-page?node-id=0%3A2
+
