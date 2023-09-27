@@ -24,7 +24,7 @@
 
 Приклад верстки форми відповідно до шаблону: [Посилання на Figma](https://www.figma.com/file/XIGo9Oo8dSS7VSZRaXXBMt/SignUpForm)
 
-**Перевірка:** Верстка форми [Посилання на Figma](https://www.figma.com/file/yLTQtQBSS4398GLZnJre1o/sign-up-form)
+**ДЗ:** Верстка форми [Посилання на Figma](https://www.figma.com/file/yLTQtQBSS4398GLZnJre1o/sign-up-form)
 
 ## CSS Бокс-модель | Сітки | Flex
 
@@ -46,5 +46,4 @@
 - Верстка карточки товару за допомогою Flex: [Посилання на Figma](https://www.figma.com/file/8cIUOY8RQuaaYkjaxpfySI/Product)
 - Приклад верстки меню за допомогою Flex
 
-**Перевірка:** Верстка простого шаблону сторінки [Посилання на Figma](https://www.figma.com/file/Hp1k4Lw1cKtYvp55KK6HYU/MIcroLanding?node-id=0%3A1)
-(TODO: Додати етапність)
+**ДЗ:** Верстка простого шаблону сторінки [Посилання на Figma](https://www.figma.com/file/Hp1k4Lw1cKtYvp55KK6HYU/MIcroLanding?node-id=0%3A1)
