@@ -27,7 +27,7 @@
 **ДЗ:** Верстка форми [Посилання на Figma](https://www.figma.com/file/yLTQtQBSS4398GLZnJre1o/sign-up-form)
 
 ## CSS Бокс-модель | Сітки | Flex
-
+- Одиниці вимірювання px/em/rem/vh/vw
 - Бокс-модель: [Посилання на документацію MDN](https://developer.mozilla.org/ru/docs/Web/CSS/CSS_Box_Model)
 - Потік сторінки та управління ним
 - Display: block|inline-block|inline
