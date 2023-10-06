@@ -18,9 +18,9 @@
 
 ## CSS Сітки, частина 3 | Grid layout
 
-- Display: grid
-- Grid-template-columns (шаблон грід контейнера)
-- Grid-template-rows
+- display: grid
+- grid-template-columns (шаблон грід контейнера)
+- grid-template-rows
 - justify-content
 - align-content
 - align-items
@@ -33,11 +33,8 @@
 - grid-column: */*
 - grid-row: */*
 - grid-template-areas: 'area_name area_name' 'area_name area_name' + grid-area: 'col_name'
-- Minmax
-- Grid-column
-- Grid-row
-- Grid-auto-flow
-- Fr, частина вільного простору
+- minmax
+- fr, частина вільного простору
 - Властивість gap, відступ між грід елементами
 - Верстка сітки товарів за допомогою grid
 
