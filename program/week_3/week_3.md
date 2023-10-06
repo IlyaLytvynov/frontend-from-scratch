@@ -20,13 +20,25 @@
 
 - Display: grid
 - Grid-template-columns (шаблон грід контейнера)
-
-- Верстка сітки товарів за допомогою grid
+- Grid-template-rows
+- justify-content
+- align-content
+- align-items
+- justify-items
+- justify-self/align-self
+- grid-column-start
+- grid-column-end
+- grid-row-start
+- grid-row-end
+- grid-column: */*
+- grid-row: */*
+- grid-template-areas: 'area_name area_name' 'area_name area_name' + grid-area: 'col_name'
 - Minmax
 - Grid-column
 - Grid-row
 - Grid-auto-flow
 - Fr, частина вільного простору
 - Властивість gap, відступ між грід елементами
+- Верстка сітки товарів за допомогою grid
 
 **Перевірка:** Верстка сітки каталогу товарів за допомогою grid
