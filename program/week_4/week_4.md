@@ -4,10 +4,12 @@
 - Кольори в css
 - Браузерні префікси https://itnext.io/css-fundamentals-vendor-prefixing-b339d3c9859a
 - Типи версток сайтів(фіксована/відзивчіва/адаптивна)
-- 
-- Верстка за допомогою медіа-запитів (Media queries) [Документація MDN](https://developer.mozilla.org/ru/docs/Web/CSS/Media_Queries/Using_media_queries)
-- Приклад верстки адаптивного сайта https://www.figma.com/file/x8GJjftmuukbZcb1sEmEuo/Responsive-site-example?type=design&node-id=1%3A59&mode=dev 
-
+- Mobile/desktop first min-width/max-width
+- Media queries [Документація MDN](https://developer.mozilla.org/ru/docs/Web/CSS/Media_Queries/Using_media_queries)
+- Верстка за допомогою медіа-запитів (Media queries) 
+- Приклад верстки меню сайта https://www.figma.com/file/x8GJjftmuukbZcb1sEmEuo/Responsive-site-example?type=design&node-id=1%3A59&mode=dev
+- Адаптивні зображення Container + img 100%/picture + src-set https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images
+  
 **Перевірка:** Верстка сторінки з адаптацією під різні пристрої
 
 ## Препроцесори SCSS
