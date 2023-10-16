@@ -2,7 +2,7 @@
 
 ## Кольори в CSS, браузерні префікси, основи адаптивної верстки
 - Кольори в css
-- Браузерні префікси
+- Браузерні префікси https://itnext.io/css-fundamentals-vendor-prefixing-b339d3c9859a
 - Що таке адаптивна верстка?
 - Верстка за допомогою медіа-запитів (Media queries) [Документація MDN](https://developer.mozilla.org/ru/docs/Web/CSS/Media_Queries/Using_media_queries)
 - Приклад верстки адаптивного меню
