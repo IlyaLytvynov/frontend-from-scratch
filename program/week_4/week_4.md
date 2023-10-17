@@ -9,7 +9,31 @@
 - Media queries [Документація MDN](https://developer.mozilla.org/ru/docs/Web/CSS/Media_Queries/Using_media_queries)
 - Верстка за допомогою медіа-запитів (Media queries) 
 - Приклад верстки меню сайта https://www.figma.com/file/x8GJjftmuukbZcb1sEmEuo/Responsive-site-example?type=design&node-id=1%3A59&mode=dev
-- Адаптивні зображення Container + img 100%/picture + src-set https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images
+
+## Адаптивні зображення
+- контентні зображення
+- img vs background image
+- container + width/max-width
+- object-fit: fill/contain/cover
+- object-position: center/top/bottom/left/right/px
+- responsive height position: relative+absolute 
+  .cards__image {
+  	margin: 0 0 20px 0;
+  	padding-top: 58%;
+  	overflow: hidden;
+  	position: relative;
+  	width: 100%;
+  }
+  
+  .cards__image img {
+  	width: 100%;
+  	height: 100%;
+  	object-fit: cover; 
+  	position: absolute;
+  	top: 0;
+  	left: 0;
+  }
+- picture + source
   
 **Перевірка:** Верстка сторінки з адаптацією під різні пристрої
 
