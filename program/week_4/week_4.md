@@ -16,8 +16,8 @@
 - container + width/max-width
 - object-fit: fill/contain/cover
 - object-position: center/top/bottom/left/right/px
-- responsive height position: relative+absolute 
-  .cards__image {
+- responsive height position: relative+absolute   
+  `.cards__image {
   	margin: 0 0 20px 0;
   	padding-top: 58%;
   	overflow: hidden;
@@ -32,7 +32,7 @@
   	position: absolute;
   	top: 0;
   	left: 0;
-  }
+  }`
 - picture + source
   
 **Перевірка:** Верстка сторінки з адаптацією під різні пристрої
