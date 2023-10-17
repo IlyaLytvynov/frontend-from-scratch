@@ -47,4 +47,4 @@
 - Міксіни
 - Цикли
 
-**Перевірка:** Верстка сторінки з використанням препроцесорів
+**Перевірка:** Верстка сторінки з використанням препроцесорів https://www.figma.com/file/ILqzGGBmB9kEqoN3w7zCZK/Fitness-Landing-Page-(Community)-(Copy)?type=design&node-id=1%3A12&mode=dev
