@@ -2,6 +2,7 @@
 
 ## Кольори в CSS, браузерні префікси, основи адаптивної верстки
 - Кольори в css
+- Кастомні шрифти
 - Браузерні префікси https://itnext.io/css-fundamentals-vendor-prefixing-b339d3c9859a
 - Типи версток сайтів(фіксована/відзивчіва/адаптивна)
 - Mobile/desktop first min-width/max-width
