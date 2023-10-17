@@ -37,6 +37,6 @@
 - fr, частина вільного простору
 - Властивість gap, відступ між грід елементами
 - Верстка сітки товарів за допомогою grid
-**ДЗ1** Верстка сторінки https://www.figma.com/file/VZVwux3ca4ua4ljT30DElt/metro-ui?type=design&mode=dev
-**ДЗ2:** Верстка сітки каталогу товарів за допомогою grid https://ilyaillych.wixstudio.io/my-site-18/category/all-products 
+<br/> **ДЗ1** Верстка сторінки https://www.figma.com/file/VZVwux3ca4ua4ljT30DElt/metro-ui?type=design&mode=dev
+<br/> **ДЗ2:** Верстка сітки каталогу товарів за допомогою grid https://ilyaillych.wixstudio.io/my-site-18/category/all-products 
 
