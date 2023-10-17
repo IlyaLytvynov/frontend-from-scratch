@@ -4,7 +4,7 @@
 - Кольори в css
 - Кастомні шрифти
 - Браузерні префікси https://itnext.io/css-fundamentals-vendor-prefixing-b339d3c9859a
-- Типи версток сайтів(фіксована/відзивчіва/адаптивна)
+- Типи версток сайтів(фіксована/відзивчіва/адаптивна) [приклад адаптивного сайту](https://ilyaillych.wixstudio.io/adoptive-example)
 - Mobile/desktop first min-width/max-width
 - Media queries [Документація MDN](https://developer.mozilla.org/ru/docs/Web/CSS/Media_Queries/Using_media_queries)
 - Верстка за допомогою медіа-запитів (Media queries) 
