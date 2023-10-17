@@ -10,6 +10,8 @@
 - Верстка за допомогою медіа-запитів (Media queries) 
 - Приклад верстки меню сайта https://www.figma.com/file/x8GJjftmuukbZcb1sEmEuo/Responsive-site-example?type=design&node-id=1%3A59&mode=dev
 
+  **Перевірка:** Верстка сторінки з адаптацією під різні пристрої з адаптивними картинками https://www.figma.com/file/x8GJjftmuukbZcb1sEmEuo/Responsive-site-example?type=design&node-id=1%3A59&mode=dev
+
 ## Адаптивні зображення
 - контентні зображення
 - img vs background image
@@ -34,8 +36,6 @@
   	left: 0;
   }`
 - picture + source
-  
-**Перевірка:** Верстка сторінки з адаптацією під різні пристрої
 
 ## Препроцесори SCSS
 
