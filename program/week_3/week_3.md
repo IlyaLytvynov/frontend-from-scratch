@@ -14,7 +14,7 @@
 
 Приклад верстки шаблону: [Посилання на Figma](https://www.figma.com/file/wP6PAnaD34WZoRxlC1y7yP/Landing)
 
-**Перевірка:** Верстка сторінки відповідно до шаблону [Посилання на Figma](https://www.figma.com/file/Hp1k4Lw1cKtYvp55KK6HYU/MIcroLanding?node-id=0%3A1)
+**Перевірка:** Верстка сторінки відповідно до шаблону [Посилання на Figma](https://www.figma.com/file/yJaiEGA7a39uULNODTVsOQ/template-build-company?type=design&mode=dev)
 
 ## CSS Сітки, частина 3 | Grid layout
 
@@ -37,6 +37,6 @@
 - fr, частина вільного простору
 - Властивість gap, відступ між грід елементами
 - Верстка сітки товарів за допомогою grid
-
-**Перевірка:** Верстка сітки каталогу товарів за допомогою grid https://ilyaillych.wixstudio.io/my-site-18/category/all-products 
+**ДЗ1** Верстка сторінки https://www.figma.com/file/VZVwux3ca4ua4ljT30DElt/metro-ui?type=design&mode=dev
+**ДЗ2:** Верстка сітки каталогу товарів за допомогою grid https://ilyaillych.wixstudio.io/my-site-18/category/all-products 
 
