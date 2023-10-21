@@ -8,24 +8,14 @@
 - Синтаксис
 - Теги `script` | `script type="module"`
 - Повідомлення `alert` | `prompt` | `confirm` https://uk.javascript.info/alert-prompt-confirm
-- Перетворення 
+- Перетворення https://uk.javascript.info/type-conversions
 - Змінні https://uk.javascript.info/variables
 - Дані та типи даних (string | number | null | undefined | boolean | object | symbol)
+- Базові оператори https://uk.javascript.info/operators
 - Оператори порівняння
+- Оператори об'єднання https://uk.javascript.info/nullish-coalescing-operator
 - Оператори умови `if ... else` https://uk.javascript.info/ifelse
+- Switch https://uk.javascript.info/switch
 - Цикли https://uk.javascript.info/while-for
 - Методи рядків https://uk.javascript.info/string
 - Методи чисел https://uk.javascript.info/number
-
-Практичне вирішення завдань
-- Масиви
-- Методи масивів `push` | `pop` | `shift` | `unshift` | `slice` | `splice`
-- Функції https://uk.javascript.info/function-basics
-- Область видимості функцій https://uk.javascript.info/function-expressions
-- Локальні та зовнішні змінні 
-- Параметри функцій
-- Повернення значень з функцій
-- Відладка в браузері Chrome 
-- Якість коду (юніт-тестування) mocha | chai | sinon
-
-Практичне вирішення завдань (підготувати завдання та тести)
