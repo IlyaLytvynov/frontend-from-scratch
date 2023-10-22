@@ -17,5 +17,3 @@
 - Оператори умови `if ... else` https://uk.javascript.info/ifelse
 - Switch https://uk.javascript.info/switch
 - Цикли https://uk.javascript.info/while-for
-- Методи рядків https://uk.javascript.info/string
-- Методи чисел https://uk.javascript.info/number
