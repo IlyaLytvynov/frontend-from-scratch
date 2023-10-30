@@ -4,6 +4,8 @@
 - Масиви 
 - Методи масивів `push` | `pop` | `shift` | `unshift` | `slice` | `splice`
 - Функції https://uk.javascript.info/function-basics
+- Параметри функцій 
+- Повернення значень з функцій
 - Об'єкт моделі документу (Document Object Model)
 - Браузерні події onclick | addEventListener
 - Селектори querySelector | querySelectorAll
@@ -13,8 +15,6 @@
 ## 6.2 Функції поглибленно | DOM в деталях (запис)
 - Область видимості функцій https://uk.javascript.info/function-expressions
 - Локальні та зовнішні змінні 
-- Параметри функцій 
-- Повернення значень з функцій
 - Вираз функції (Function expression)
 - Функція зворотного виклику (Callback function)
 
