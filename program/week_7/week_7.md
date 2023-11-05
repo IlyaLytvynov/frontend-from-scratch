@@ -3,12 +3,12 @@
 ## 7.1 Динамічне створення елементів HTML за допомогою JS
 - розбір завдання світлофор
 - створення слайдшоу
-- Перетворення елементів массиву в елементи HTML
-- localStorage
+
 - Створення списку завдань за допомогою localStorage
 
 ## 7.2 Асінхронна поведінка, контекст виклику
 - document.createElement()
+- localStorage
 - targetElement.innerHTML  
 - targetElement.insertAdjacentHTML(position, text)
 - setTimeout/interval
